@@ -8,7 +8,9 @@ meme: "https://i.imgur.com/5Nz7PDn.jpeg"
 
  
 
-det jag gjorde idag var att börja förstå vad jag ska göra och jag skrev lite kod
+Det jag gjorde idag var att börja förstå vad jag ska göra och jag skrev lite kod
+
+Exempel:
 
 ```js
         return () => {
