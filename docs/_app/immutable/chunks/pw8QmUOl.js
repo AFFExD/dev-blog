@@ -1,0 +1,4 @@
+import{S as e,b as t}from"./BL64kIJQ.js";import"./D1hYfEew.js";var n={title:`lock in`,date:`2026-05-25`,effort:`medel`,meme:`https://media1.tenor.com/m/t0aPBxSz5a4AAAAC/applause.gif`},{title:r,date:i,effort:a,meme:o}=n,s=e(`<p>Den senaste månaden har jag jobbat på väldigt bra.
+Jag har kommit en lång väg och fått mitt spel att fungera.
+Det är inte det finaste spelet men allt funkar som det ska och jag har fått hjälp av AI att göra det lite snyggare åtminstånde.
+Det finns nu tre bilder på naturplater och en karta där man kan gissa på vars den platsen ligger.</p>`);function c(e){t(e,s())}export{c as default,n as metadata};

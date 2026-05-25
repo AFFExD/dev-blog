@@ -1,0 +1,7 @@
+import{F as e,P as t,S as n,b as r,h as i,q as a}from"./BL64kIJQ.js";import"./D1hYfEew.js";var o={title:`Det var inte mycket jobb`,date:`2026-04-27`,effort:`låg`,meme:`https://i.imgur.com/5Nz7PDn.jpeg`},{title:s,date:c,effort:l,meme:u}=o,d=n(`<p>det jag gjorde idag var att börja förstå vad jag ska göra och jag skrev lite kod</p> <pre class="language-js"></pre>`,1);function f(n){var o=d(),s=e(t(o),2);i(s,()=>`<code class="language-js">        <span class="token keyword">return</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">&#123;</span>
+            map<span class="token punctuation">.</span><span class="token function">remove</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+		<span class="token punctuation">&#125;</span><span class="token punctuation">;</span>
+
+ 		<span class="token keyword">let</span> maploaded <span class="token operator">=</span> <span class="token function">$state</span><span class="token punctuation">(</span><span class="token boolean">false</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+</code>`,!0),a(s),r(n,o)}export{f as default,o as metadata};
